@@ -173,7 +173,9 @@ Each outputs a membership μ ∈ [0,1].
 
 ## 👤 Author
 
-**Sampath Magapu**
+**Anil Sai Vallabhu**  
+Email: [vallabhuanilsai@gmail.com](mailto:vallabhuanilsai@gmail.com)  
+LinkedIn: [https://www.linkedin.com/in/vallabhu-anil-sai-70a5a1366/](https://www.linkedin.com/in/vallabhu-anil-sai-70a5a1366/)
 
 ---
 
